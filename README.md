@@ -1,2 +1,2 @@
-# COMUNICACI-N-YAIZA
+# COMUNICACION-YAIZA
 Prueba de clase
